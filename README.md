@@ -1,69 +1,41 @@
-# FOXELAMPADAS
-
-### LIGHTING & HOME DECOR
+# FOXELAMPADAS — Lighting & Home Decor
 
 **Illuminate Your Space. Elevate Your Style.**
 
-![Lighting](https://img.shields.io/badge/LIGHTING-HOME%20DECOR-C7795B?style=for-the-badge&labelColor=3B2927)
-![Design](https://img.shields.io/badge/DESIGN-MODERN%20%26%20MINIMALIST-3B2927?style=for-the-badge)
-![Website](https://img.shields.io/badge/WEBSITE-IN%20DEVELOPMENT-C7795B?style=for-the-badge&labelColor=3B2927)
+A modern, minimalist demonstration storefront using the Terracotta Luxe brand palette.
 
----
+## Run locally
 
-## Welcome to FOXELAMPADAS
+For full functionality, serve this folder using a local HTTP server (the product catalog loads from JSON):
 
-**FOXELAMPADAS** is an emerging lighting and home decor brand dedicated to creating beautiful, comfortable, and inspiring living spaces.
+```bash
+python -m http.server 8000
+```
 
-Inspired by modern interiors, warm materials, and minimalist aesthetics, our brand explores the relationship between lighting, atmosphere, and everyday living.
+Open http://localhost:8000/ in your browser. Alternatively, publish all files to GitHub Pages.
 
-We believe that the right lighting does more than illuminate a room — it transforms the way a space looks and feels.
+## Pages
 
-**Thoughtful Lighting. Beautiful Living.**
+- `index.html` — Editorial homepage
+- `shop.html` — Catalog with search, filters, favorites and demo cart
+- `collections.html` — Category navigation
+- `about.html`, `contact.html`, `faq.html`, `privacy.html`, `terms.html`
 
----
+## Brand
 
-## Our Collections
+- Terracotta Luxe: `#3B2927`, `#C7795B`, `#FFF8F2`
+- Language: English
+- Style: Modern & Minimalist
 
-Discover the lighting and decor categories that define the FOXELAMPADAS vision.
+## Important
 
-| Collection | Description |
-|---|---|
-| Pendant Lighting | Modern hanging lamps and statement lighting |
-| Table Lamps | Elegant lighting for desks, bedrooms, and living rooms |
-| Floor Lamps | Contemporary lighting for comfortable interiors |
-| Wall Lighting | Minimalist wall sconces and decorative fixtures |
-| Ceiling Lighting | Modern ceiling lights and ambient lighting concepts |
-| Decorative Lighting | Accent lighting and atmospheric accessories |
-| Home Decor | Decorative objects and modern interior essentials |
+This is a **concept storefront**, not a live store. Product photos, product names and USD prices are illustrative. Cart and favorites use localStorage. There is no payment processing, order fulfillment, mailing-list subscription or functional contact form. Photos and fonts are externally hosted and require an internet connection.
 
-*Collections and products are currently presented as part of our developing brand concept.*
+© 2026 FOXELAMPADAS.
 
----
 
-## Our Philosophy
-
-### Modern Simplicity
-
-We embrace clean lines, balanced proportions, and contemporary design.
-
-### Warm Atmosphere
-
-We believe lighting should make interiors feel welcoming, comfortable, and personal.
-
-### Timeless Aesthetics
-
-Our design direction favors elegant pieces that complement a wide variety of spaces.
-
-### Thoughtful Details
-
-From materials and finishes to visual presentation, every detail contributes to the overall experience.
-
----
-
-## Our Mission
-
-To inspire modern living through elegant lighting, thoughtful design, and home decor that brings warmth and personality to everyday spaces.
-
-## Our Vision
-
-To establish **FOXELAMPADAS** as a distinctive lighting and home decor brand recognized for contemporary elegance
+## Studio V2 enhancements
+- Refined editorial typography and generous whitespace
+- Improved product imagery transitions and mobile spacing
+- Product data embedded in JavaScript for direct `index.html` local preview
+- Static website ready for GitHub Pages

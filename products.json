@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Arc Linen Floor Lamp",
+    "category": "Floor Lamps",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 2,
+    "name": "Terra Ceramic Table Lamp",
+    "category": "Table Lamps",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 3,
+    "name": "Sora Pendant Light",
+    "category": "Pendant Lights",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 4,
+    "name": "Mira Glass Table Lamp",
+    "category": "Table Lamps",
+    "price": 98,
+    "image": "https://images.unsplash.com/photo-1543198126-a8ad8e47fb22?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 5,
+    "name": "Noma Wall Sconce",
+    "category": "Wall Lights",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 6,
+    "name": "Solstice Pendant",
+    "category": "Pendant Lights",
+    "price": 175,
+    "image": "https://images.unsplash.com/photo-1543198126-a8ad8e47fb22?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 7,
+    "name": "Atelier Floor Light",
+    "category": "Floor Lamps",
+    "price": 229,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=850&q=85"
+  },
+  {
+    "id": 8,
+    "name": "Dune Ambient Lamp",
+    "category": "Table Lamps",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1543198126-a8ad8e47fb22?auto=format&fit=crop&w=850&q=85"
+  }
+]
